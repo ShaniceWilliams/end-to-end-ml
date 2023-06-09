@@ -1,2 +1,3 @@
-# end-to-end-ml
-End to End ML project based on Krish Naik's Project
+# End-to-End-ML
+End to End Machine learning project based on Krish Naik's Project.
+
