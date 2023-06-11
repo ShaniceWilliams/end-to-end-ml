@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa43e86-51a4-4519-8189-bd9ef80d4eab" name="Changes" comment="Data ingestion">
+    <list default="true" id="5aa43e86-51a4-4519-8189-bd9ef80d4eab" name="Changes" comment="Data transformation added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_ingestion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/data_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_transformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/model_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/model_trainer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686298293100</updated>
       <workItem from="1686298294668" duration="10822000" />
-      <workItem from="1686487163222" duration="9683000" />
+      <workItem from="1686487163222" duration="13998000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1686300478930</created>
@@ -95,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686492293802</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Data transformation added.">
+      <created>1686503323929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686503323929</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +123,8 @@
     <MESSAGE value="Project structure, logging and exception handling" />
     <MESSAGE value="EDA and problem statements" />
     <MESSAGE value="Data ingestion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data ingestion" />
+    <MESSAGE value="Data transformation added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Data transformation added." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/end_to_end_ml$data_ingestion.coverage" NAME="data_ingestion Coverage Results" MODIFIED="1686491184222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/components" />
